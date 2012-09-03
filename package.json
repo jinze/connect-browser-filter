@@ -1,0 +1,17 @@
+{
+  "author": {
+    "name": "Ze Jin",
+    "email": "luckyruisin+github@gmail.com",
+    "url": "http://jinze.me"
+  },
+  "name": "connect-browser-filter",
+  "description": "A connect middleware to redirect incompatible borwsers to another URL",
+  "version": "0.0.1",
+  "main": "lib/browser_filter.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
