@@ -8,7 +8,9 @@
   "description": "A connect middleware to redirect incompatible borwsers to another URL",
   "version": "0.0.1",
   "main": "lib/browser_filter.js",
-  "dependencies": {},
+  "dependencies": {
+    "useragent": "*"
+  },
   "devDependencies": {},
   "optionalDependencies": {},
   "engines": {

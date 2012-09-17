@@ -14,7 +14,7 @@ var app = connect()
     //The filter and redirect map.
     //Now only support 'ieX' series.
     {
-      '/legacyIE.html': ['ie6', 'ie7']
+      '/legacyIE.html': {'IE': '<8'}
     },
     {
       //Ignore files list.(Optional)
